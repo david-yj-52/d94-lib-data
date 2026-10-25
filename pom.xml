@@ -79,6 +79,11 @@
             <name>GitHub Packages - d94-lib-data</name>
             <url>https://maven.pkg.github.com/david-yj-52/d94-lib-data</url>
         </repository>
+        <snapshotRepository>
+            <id>github-lib-data</id>
+            <name>GitHub Packages - d94-lib-data</name>
+            <url>https://maven.pkg.github.com/david-yj-52/d94-lib-data</url>
+        </snapshotRepository>
     </distributionManagement>
 
 </project>
